@@ -1,0 +1,25 @@
+{
+  "name": "청북 디지털역사관",
+  "short_name": "청북 역사관",
+  "id": "https://archive.cbuk.kr/",
+  "start_url": "https://archive.cbuk.kr/",
+  "scope": "https://archive.cbuk.kr/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#086DB8",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "https://cdn.imweb.me/thumbnail/20261010/20a09f3d8ca70.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn.imweb.me/thumbnail/20261010/40e6b0777f615.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
